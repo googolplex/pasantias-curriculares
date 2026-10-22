@@ -13,3 +13,8 @@
 - [x] La ausencia o imposibilidad de verificar la firma se informa por formulario y requiere revisión.
 - [x] Informe final F5 preferentemente de una página; si excede, aviso no bloqueante.
 - [x] Exceso de extensión por sí solo no modifica el dictamen final.
+
+- [x] F4 debe incluir evaluación de la empresa y firma verificable de su representante.
+- [x] Comparar preferentemente al firmante/evaluador F4 con el contacto o responsable de empresa declarado en F1; diferencia de persona es aviso, no rechazo automático.
+- [x] Verificar igualdad de inicio y fin entre F2, F4 y F5, así como inicio anterior o igual a fin.
+- [x] La tolerancia de «Respuesta de la Organización» F2 no modifica la coincidencia estricta de fechas inicio/fin.
