@@ -8,3 +8,8 @@
 - [ ] Confirmar obligatoriedad y documentación específica del ticket de cierre.
 - [ ] Definir evidencia de horarios diarios y reglas de acreditación de horas.
 - [ ] Definir criterios finales de aprobación de cierre.
+
+- [x] Control de firma del profesor tutor en F2 y F5 (caso de prueba: Roger Armoa).
+- [x] La ausencia o imposibilidad de verificar la firma se informa por formulario y requiere revisión.
+- [x] Informe final F5 preferentemente de una página; si excede, aviso no bloqueante.
+- [x] Exceso de extensión por sí solo no modifica el dictamen final.
