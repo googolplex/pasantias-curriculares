@@ -23,3 +23,6 @@
 18. Revisar si el estudiante **declara en el texto de su informe final F5** que ya es empleado de la empresa receptora. Solo en ese caso exigir **certificado de trabajo**; si falta, REQUIERE REVISIÓN. Si el escrito no determina la situación laboral, pedir aclaración sin inferir empleo.
 
 19. En **cierre de pasantía**, el nombre completo y el número de cédula deben concordar en F1, F2, F3, F4 y F5. Para comparar, ignorar tildes, mayúsculas, espacios superfluos y puntuación de la cédula, pero no aceptar diferencias en los dígitos ni en los componentes del nombre. Señalar el formulario discrepante; no exponer la cédula completa en WhatsApp.
+
+20. Para la misión **cierre de pasantía**, el **F1 es optativo**: suele presentarse al abrir la pasantía. No exigirlo ni bloquear el cierre por su ausencia. En cierre comprobar F2–F5; si se adjunta F1, verificarlo también. La consistencia de identidad de cierre se exige entre F2–F5 y F1 solo cuando está disponible.
+21. Incluir recordatorio en el mensaje de cierre: una vez presentada la documentación **por correo electrónico a Mesa de Entrada**, el alumno debe **enviar al mismo tutor su ticket de cierre**, denominado `nombre_del_alumno_ticket_cierre.pdf`. No tratar como faltante automático el ticket aún no emitido durante una revisión previa.
