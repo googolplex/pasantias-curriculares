@@ -96,3 +96,9 @@ No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
 - **F1 también contiene el campo E-mail del pasante**: cuando se presenta, comprobar que esté completado, que sea una dirección **institucional** y que coincida con la del alumno en F2 y F4 y en cualquier otro formulario que la consigne.
 - **F1 sigue siendo optativo para el cierre**: si no se adjunta, su ausencia nunca genera observación. Si se adjunta, sí se audita su correo.
 - Si el correo del alumno en F1 es personal, ilegible, vacío o diferente del correo institucional presente en los demás formularios, incluir **OBSERVACIÓN NOTABLE** que identifique F1 y asignar **REQUIERE REVISIÓN** hasta corregir o aclarar.
+
+## Regla aprobada — identificar explícitamente formularios comparados (2026-10-22)
+- En el **INFORME DE AUDITORÍA DE CIERRE DE PASANTÍA**, toda conclusión de «CONSISTENTE», «COINCIDENTE» o «CONFORME» derivada de una comparación entre documentos debe **nombrar explícitamente los formularios efectivamente comparados**; nunca escribir solo «Nombre: consistente» o «Cédula: consistente».
+- Para identidad, cuando están disponibles los cinco documentos: «Nombre completo: consistente entre F1, F2, F3, F4 y F5» y «Cédula de identidad: consistente entre F1, F2, F3, F4 y F5» **solo después de comprobar cada uno**.
+- Como F1 es **optativo para cierre**, si no está adjunto indicar «consistente entre F2, F3, F4 y F5», sin simular que fue evaluado. Si falta o es ilegible un dato en cualquier documento, no declarar coincidencia total: informar la limitación o discrepancia y el formulario afectado.
+- En fechas, especificar «fechas de inicio y finalización coincidentes entre F2, F4 y F5», siempre que estén comprobadas. En correo, citar exclusivamente los formularios que contienen un e-mail verificable, identificando faltantes o inconsistencias individualmente.
