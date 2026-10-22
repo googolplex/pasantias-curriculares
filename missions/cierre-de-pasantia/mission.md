@@ -78,3 +78,10 @@ No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
 - **No marcar estos tres nombres como nomenclatura incorrecta ni pedir renombrarlos**, siempre que correspondan al alumno y formulario correctos.
 - Esta decisión **rectifica** las instrucciones anteriores que prohibían incondicionalmente cualquier sufijo adicional, al menos para los casos aprobados aquí. No extrapolar la aceptación a otros sufijos sin autorización.
 - F1 sigue siendo optativo para la etapa de cierre.
+
+## Regla aprobada — consistencia obligatoria del correo institucional (2026-10-22)
+- El correo electrónico **del alumno** debe ser **institucional y consistente** entre todos los formularios de cierre en los que figure (F2, F3, F4 y F5; también F1 si se adjunta, aunque F1 es optativo).
+- Comparar las direcciones del estudiante, normalizando únicamente espacios incidentales y diferencias de mayúsculas/minúsculas. **Diferentes direcciones institucionales no se consideran consistentes automáticamente**: solicitar aclaración o corrección.
+- Si un formulario registra correo personal del alumno, emitir **OBSERVACIÓN NOTABLE** y dictamen **REQUIERE REVISIÓN** hasta que se rectifique o aclare. Esta regla sustituye la disposición anterior que consideraba el correo personal solo un aviso no bloqueante.
+- No confundir los correos de la organización o de funcionarios con el del estudiante. Si un formulario no contiene un campo de correo del alumno, no inventar una ausencia ni exigir añadir un campo inexistente. Identificar los formularios comparados y los que no cuentan con este dato.
+- Si el correo aparece ilegible o no es posible determinar si es institucional, consignar **NO VERIFICABLE** y solicitar aclaración. Evitar publicar la dirección completa del estudiante en WhatsApp.
