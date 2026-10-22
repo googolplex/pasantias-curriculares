@@ -14,3 +14,6 @@
 
 12. En la misión de **cierre de pasantía**, F2 y F5 deben tener firma verificable del profesor tutor (caso actual: Roger Armoa); si falta o no es verificable, solicitar revisión. Esta regla específica no deroga las exclusiones de `controlF1`.
 13. El informe final narrativo del pasante (F5) debe ser preferentemente de **una página**; si sobrepasa una página, emitir solo un **aviso**, sin bloquear la aprobación por ese motivo. No confundir el total de páginas de un PDF con el número de páginas del informe narrativo.
+
+14. En **cierre de pasantía**, F4 debe contener evaluación de la empresa y firma verificable de su representante. Se prefiere que firme la misma persona que figura como contacto/responsable de la empresa en F1, pero otra persona no causa por sí sola rechazo; aclarar identidad/capacidad cuando sea necesario.
+15. Las fechas de **inicio** y **fin** deben coincidir entre **F2, F4 y F5**, con inicio ≤ fin. Si hay discrepancias, REQUIERE REVISIÓN. La tolerancia para «Respuesta de la Organización» del F2 es una regla distinta y no se extiende a estas fechas.
