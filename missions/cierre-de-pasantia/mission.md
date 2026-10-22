@@ -33,3 +33,10 @@ Mensaje único, breve, listo para copiar a WhatsApp; sin saludos/prólogos, PDF
 
 ## Privacidad
 No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
+
+## Reglas aprobadas — firmas y extensión del informe (2026-10-22)
+- **Firmas del profesor:** en la auditoría de **cierre** se debe comprobar visualmente que **F2 y F5 estén firmados por el profesor tutor**, Roger Armoa en el caso de prueba actual. No basta con que aparezca su nombre escrito; verificar evidencia de firma. No asumir que cualquier firma pertenece al profesor si no puede identificarse su autor. Si falta o no es verificable, indicar **REQUIERE REVISIÓN**, especificando cuál formulario requiere firma o confirmación.
+- La firma docente obligatoria en **F2 y F5** es una regla específica del **cierre de pasantía**. No modifica automáticamente la exclusión de datos/firma del Tutor Orientador en la misión preliminar `controlF1`.
+- **Extensión del informe final del estudiante:** se prefiere **como máximo una página**. Si supera una página, emitir un **AVISO no bloqueante**, indicando el número de páginas observado. Exceder una página **no es grave y no basta por sí solo** para asignar REQUIERE REVISIÓN o RECHAZADO.
+- Para esta regla, «informe final» significa el **informe del pasante presentado como F5**, no el mensaje breve de auditoría enviado por WhatsApp; este último también debe mantenerse conciso.
+- Si el PDF contiene formularios u hojas administrativas además del informe, no confundir la cantidad de páginas del archivo con la extensión de la parte narrativa. Ante ambigüedad, describir lo verificado sin emitir aviso injustificado.
