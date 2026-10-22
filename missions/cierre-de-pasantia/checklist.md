@@ -52,3 +52,6 @@
 - [x] Verificar que las direcciones institucionales del alumno coincidan exactamente, ignorando solo mayúsculas y espacios incidentales.
 - [x] Si aparece correo personal del alumno o correos institucionales divergentes, OBSERVACIÓN NOTABLE y REQUIERE REVISIÓN.
 - [x] No penalizar formularios sin campo de correo del alumno ni comparar contra el correo de la empresa.
+
+- [x] **F4 contiene E-mail del pasante**: comprobar obligatoriamente su presencia, carácter institucional y concordancia con las demás direcciones del alumno.
+- [x] Correo de F4 vacío, personal, divergente o no verificable: observación específica y REQUIERE REVISIÓN.
