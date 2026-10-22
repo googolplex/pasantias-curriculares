@@ -91,3 +91,8 @@ No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
 - Comprobar que el correo consignado en F4 sea **institucional** y que **coincida con el correo institucional del alumno en los otros formularios que lo registren** (F2 y, cuando se adjunte, F1; también otros si contienen el campo).
 - Correo personal, dirección distinta o campo obligatorio ilegible/vacío en F4: señalar específicamente **F4** en una **OBSERVACIÓN NOTABLE** y asignar **REQUIERE REVISIÓN** hasta corregir o aclarar.
 - Esta precisión sustituye cualquier instrucción anterior que tratara la presencia de correo en F4 como meramente hipotética.
+
+## Precisión aprobada — correo institucional en F1 (2026-10-22)
+- **F1 también contiene el campo E-mail del pasante**: cuando se presenta, comprobar que esté completado, que sea una dirección **institucional** y que coincida con la del alumno en F2 y F4 y en cualquier otro formulario que la consigne.
+- **F1 sigue siendo optativo para el cierre**: si no se adjunta, su ausencia nunca genera observación. Si se adjunta, sí se audita su correo.
+- Si el correo del alumno en F1 es personal, ilegible, vacío o diferente del correo institucional presente en los demás formularios, incluir **OBSERVACIÓN NOTABLE** que identifique F1 y asignar **REQUIERE REVISIÓN** hasta corregir o aclarar.
