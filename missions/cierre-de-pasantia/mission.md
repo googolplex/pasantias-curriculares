@@ -1,0 +1,35 @@
+# Misión: Cierre de Pasantía
+
+**Proyecto:** Pasantías Curriculares — FP-UNA  
+**Inicio:** 2026-10-22  
+**Estado:** EN CURSO — criterios de auditoría iniciales aprobados.
+
+## Objetivo
+Controlar preliminarmente el expediente de cierre de pasantía curricular y emitir un informe para WhatsApp. No equivale a aprobación institucional.
+
+## Tres controles requeridos
+1. **Existencia y nomenclatura:** comprobar F1, F2, F3, F4, F5; registrar faltantes y comprobar exactamente `nombre_completo_normalizado_fN.pdf` sin sufijos adicionales. Identificar tickets adjuntos. El último prompt menciona `nombre_del_alumno_ticket_cierre.pdf` como nomenclatura de ticket de cierre, pero la obligatoriedad del ticket de cierre aún requiere confirmación.
+2. **Cronología:** verificar orden inicio ≤ fin y coincidencia de estas fechas en F2, F4 y F5 cuando existan; examinar fechas de tramitación, seguimientos y actividades, sin declarar irregularidad por diferencias administrativas admisibles.
+3. **Horas:** extraer horas declaradas, contar las jornadas con actividades documentadas, detectar fechas omitidas/feriados y calcular el promedio diario necesario o totales cuando existan horarios suficientes. Distinguir siempre (a) horas declaradas, (b) horas aritméticamente compatibles bajo supuestos, (c) horas efectivamente verificadas. No certificar (c) solo por la existencia de (a).
+
+## Regla aprobada — tolerancia cronológica del Formulario F2 (2026-10-22)
+- Comparar «Respuesta de la Organización» con la **fecha de finalización de la pasantía**, no asumir que debe preceder al inicio.
+- Puede ser ligeramente anterior o posterior a la finalización, sin generar observación automática.
+- **Caso aceptado:** respuesta el 01/10/2026 y finalización el 06/10/2026: cinco días de diferencia **CONFORME** para este criterio.
+- **No existe máximo numérico general aprobado**. No inventarlo. Separaciones ostensiblemente grandes requieren juicio/revisión del tutor, no rechazo automático.
+- Esta tolerancia NO exime de comprobar secuencia inicio/fin ni de conciliar horas.
+
+## Caso de prueba histórico — anonimizado
+Se recibieron seis PDF: F1–F5 y ticket de apertura. Se confirmó existencia de 5/5 y denominación correcta de 2/5; tres archivos llevaban sufijos adicionales. Inicio 01/09/2026, finalización 06/10/2026, respuesta de organización 01/10/2026. Se declararon 240 horas y se describieron 30 jornadas de actividad; 240/30 = ocho horas por jornada como **promedio necesario**, no como horas verificadas. Un seguimiento de 240 h fechado 01/10, anterior a actividades registradas hasta 06/10, requiere conciliación documental sin presuponer fraude ni error cierto.
+
+## Salida
+Mensaje único, breve, listo para copiar a WhatsApp; sin saludos/prólogos, PDF de informe ni datos personales innecesarios. Estados: APROBADO / REQUIERE REVISIÓN. Indicar nombres correctos, fechas comparadas, horas declaradas/calculadas/verificadas y correcciones que deben reenviarse al mismo tutor.
+
+## Pendientes de definición
+- Requisitos institucionales definitivos y obligatoriedad del ticket de cierre.
+- Evidencia necesaria para acreditar las horas efectivamente trabajadas.
+- Valor de tolerancia general (si el tutor opta por fijarlo).
+- Matriz final de aprobación documental de cierre.
+
+## Privacidad
+No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
