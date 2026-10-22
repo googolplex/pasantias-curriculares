@@ -85,3 +85,9 @@ No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
 - Si un formulario registra correo personal del alumno, emitir **OBSERVACIÓN NOTABLE** y dictamen **REQUIERE REVISIÓN** hasta que se rectifique o aclare. Esta regla sustituye la disposición anterior que consideraba el correo personal solo un aviso no bloqueante.
 - No confundir los correos de la organización o de funcionarios con el del estudiante. Si un formulario no contiene un campo de correo del alumno, no inventar una ausencia ni exigir añadir un campo inexistente. Identificar los formularios comparados y los que no cuentan con este dato.
 - Si el correo aparece ilegible o no es posible determinar si es institucional, consignar **NO VERIFICABLE** y solicitar aclaración. Evitar publicar la dirección completa del estudiante en WhatsApp.
+
+## Precisión aprobada — campo de e-mail del pasante en F4 (2026-10-22)
+- **El Formulario F4 sí incluye el campo E-mail entre los datos del pasante.** Es un campo que debe verificarse explícitamente en la auditoría de cierre.
+- Comprobar que el correo consignado en F4 sea **institucional** y que **coincida con el correo institucional del alumno en los otros formularios que lo registren** (F2 y, cuando se adjunte, F1; también otros si contienen el campo).
+- Correo personal, dirección distinta o campo obligatorio ilegible/vacío en F4: señalar específicamente **F4** en una **OBSERVACIÓN NOTABLE** y asignar **REQUIERE REVISIÓN** hasta corregir o aclarar.
+- Esta precisión sustituye cualquier instrucción anterior que tratara la presencia de correo en F4 como meramente hipotética.
