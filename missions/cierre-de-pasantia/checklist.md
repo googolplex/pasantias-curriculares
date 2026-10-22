@@ -25,3 +25,8 @@
 - [x] Revisar declaración de empleo en el escrito del informe final F5.
 - [x] Si declara ser empleado de la empresa receptora, exigir certificado de trabajo y registrar su existencia.
 - [x] Si la situación laboral no está indicada, solicitar aclaración sin presumir empleo.
+
+- [x] Comprobar consistencia de cédula de identidad entre F1, F2, F3, F4 y F5.
+- [x] Comprobar consistencia de nombres y apellidos completos entre F1, F2, F3, F4 y F5.
+- [x] Comparar cédulas sin puntos/espacios, pero exigir los mismos dígitos; admitir solo diferencias ortográficas superficiales en nombres.
+- [x] Reportar discrepancias por formulario sin publicar innecesariamente la cédula completa en WhatsApp.
