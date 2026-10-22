@@ -47,3 +47,8 @@
 
 - [x] Excepciones de nomenclatura aprobadas: `_firmado_EM` en F1 y `_ra` en F2/F5; no generar observaciones por esos sufijos.
 - [x] La regla estricta anterior «sin sufijos adicionales» queda reemplazada por estas excepciones explícitas en cierre.
+
+- [x] Verificar que todas las direcciones de correo del alumno consignadas en F2–F5 (y F1 si se adjunta) sean institucionales.
+- [x] Verificar que las direcciones institucionales del alumno coincidan exactamente, ignorando solo mayúsculas y espacios incidentales.
+- [x] Si aparece correo personal del alumno o correos institucionales divergentes, OBSERVACIÓN NOTABLE y REQUIERE REVISIÓN.
+- [x] No penalizar formularios sin campo de correo del alumno ni comparar contra el correo de la empresa.
