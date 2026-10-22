@@ -102,3 +102,10 @@ No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
 - Para identidad, cuando están disponibles los cinco documentos: «Nombre completo: consistente entre F1, F2, F3, F4 y F5» y «Cédula de identidad: consistente entre F1, F2, F3, F4 y F5» **solo después de comprobar cada uno**.
 - Como F1 es **optativo para cierre**, si no está adjunto indicar «consistente entre F2, F3, F4 y F5», sin simular que fue evaluado. Si falta o es ilegible un dato en cualquier documento, no declarar coincidencia total: informar la limitación o discrepancia y el formulario afectado.
 - En fechas, especificar «fechas de inicio y finalización coincidentes entre F2, F4 y F5», siempre que estén comprobadas. En correo, citar exclusivamente los formularios que contienen un e-mail verificable, identificando faltantes o inconsistencias individualmente.
+
+## Regla definitiva — sufijo opcional _ra (2026-10-22)
+- El sufijo final `_ra` **puede estar presente o ausente** y NO afecta la conformidad de la nomenclatura de **cualquier formulario F1–F5**.
+- Ejemplos válidos: `nombre_completo_f1.pdf`, `nombre_completo_f1_ra.pdf`, `nombre_completo_f2.pdf`, `nombre_completo_f2_ra.pdf`, ..., `nombre_completo_f5_ra.pdf`.
+- Se mantiene admitido el sufijo previamente aprobado `_firmado_EM` de F1, incluyendo la forma `nombre_completo_f1_firmado_EM.pdf`; no confundir este sufijo con el `_ra` opcional.
+- Esta regla **sustituye** toda restricción anterior que limitaba `_ra` exclusivamente a F2 y F5, o que lo consideraba motivo para REQUIERE REVISIÓN.
+- Auditar los nombres reales de los archivos recibidos, no reconstruirlos ni suponer sufijos.
