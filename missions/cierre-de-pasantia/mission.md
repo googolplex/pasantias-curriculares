@@ -2,7 +2,7 @@
 
 **Proyecto:** Pasantías Curriculares — FP-UNA  
 **Inicio:** 2026-10-22  
-**Estado:** EN CURSO — criterios de auditoría iniciales aprobados.
+**Estado del agente:** PROMPT APROBADO (2026-10-22). La misión de seguimiento documental permanece abierta.
 
 ## Objetivo
 Controlar preliminarmente el expediente de cierre de pasantía curricular y emitir un informe para WhatsApp. No equivale a aprobación institucional.
@@ -109,3 +109,9 @@ No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
 - Se mantiene admitido el sufijo previamente aprobado `_firmado_EM` de F1, incluyendo la forma `nombre_completo_f1_firmado_EM.pdf`; no confundir este sufijo con el `_ra` opcional.
 - Esta regla **sustituye** toda restricción anterior que limitaba `_ra` exclusivamente a F2 y F5, o que lo consideraba motivo para REQUIERE REVISIÓN.
 - Auditar los nombres reales de los archivos recibidos, no reconstruirlos ni suponer sufijos.
+
+## Versión oficial aprobada del agente
+- **Fecha de aprobación:** 2026-10-22.
+- **Prompt oficial para Gemini:** [`agente-gemini/cierre-de-pasantia-prompt-aprobado.md`](../../agente-gemini/cierre-de-pasantia-prompt-aprobado.md).
+- Instrucciones consolidadas para el auditor de cierre con salida WhatsApp; `_ra` opcional en F1–F5; F1 opcional; F2–F5 obligatorios; verificación de identidad, correo, cronología, horas, firmas, evaluación y ticket.
+- Modificaciones futuras deberán versionarse y comprobarse en GitHub antes de declarar aprobación.
