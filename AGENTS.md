@@ -26,3 +26,5 @@
 
 20. Para la misión **cierre de pasantía**, el **F1 es optativo**: suele presentarse al abrir la pasantía. No exigirlo ni bloquear el cierre por su ausencia. En cierre comprobar F2–F5; si se adjunta F1, verificarlo también. La consistencia de identidad de cierre se exige entre F2–F5 y F1 solo cuando está disponible.
 21. Incluir recordatorio en el mensaje de cierre: una vez presentada la documentación **por correo electrónico a Mesa de Entrada**, el alumno debe **enviar al mismo tutor su ticket de cierre**, denominado `nombre_del_alumno_ticket_cierre.pdf`. No tratar como faltante automático el ticket aún no emitido durante una revisión previa.
+
+22. **Observación notable — correo institucional:** el estudiante no debe usar su correo personal en los trámites de pasantía, sino el institucional. En la auditoría de cierre, si aparece correo personal del alumno en los formularios o hay evidencia de su uso en los trámites, reportarlo destacadamente; distinguir dirección registrada de remitente efectivo, no inventar evidencia ni divulgar correos personales completos. Por sí sola, esta observación no es motivo automático para cambiar el dictamen.
