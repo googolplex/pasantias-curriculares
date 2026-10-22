@@ -28,3 +28,5 @@
 21. Incluir recordatorio en el mensaje de cierre: una vez presentada la documentación **por correo electrónico a Mesa de Entrada**, el alumno debe **enviar al mismo tutor su ticket de cierre**, denominado `nombre_del_alumno_ticket_cierre.pdf`. No tratar como faltante automático el ticket aún no emitido durante una revisión previa.
 
 22. **Observación notable — correo institucional:** el estudiante no debe usar su correo personal en los trámites de pasantía, sino el institucional. En la auditoría de cierre, si aparece correo personal del alumno en los formularios o hay evidencia de su uso en los trámites, reportarlo destacadamente; distinguir dirección registrada de remitente efectivo, no inventar evidencia ni divulgar correos personales completos. Por sí sola, esta observación no es motivo automático para cambiar el dictamen.
+
+23. **Excepciones aprobadas en cierre:** no señalar como errores los sufijos `_firmado_EM` en F1 y `_ra` en F2 y F5. Estos nombres son válidos cuando el alumno y número de formulario corresponden. Esta regla prevalece sobre la prohibición general anterior de sufijos extra en la misión de cierre; no generalizar a sufijos no aprobados.
