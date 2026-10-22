@@ -34,3 +34,5 @@
 24. En **cierre de pasantía**, donde figure el correo del alumno en F2–F5 y F1 opcional, debe ser **institucional y la misma dirección en todos los formularios**. Ignorar mayúsculas/espacios accidentales, pero no aceptar direcciones distintas. Correo personal o inconsistencia comprobada implica **OBSERVACIÓN NOTABLE y REQUIERE REVISIÓN** (prevalece sobre la regla anterior de mero aviso). No exigir correo donde no exista ese campo ni comparar con correos de la empresa.
 
 25. En cierre, el **F4 tiene campo E-mail del pasante** y debe auditarse obligatoriamente: correo institucional, legible y consistente con los otros formularios. No tratarlo como un campo que quizá no exista; señalar F4 expresamente si incumple.
+
+26. El **F1 (optativo para cierre)** contiene correo del pasante: **si se presenta**, el e-mail debe ser institucional, estar completo y coincidir con los demás formularios que consignen la dirección del alumno. Si falta F1 no se observa; si está presente y su correo incumple, indicar OBSERVACIÓN NOTABLE y REQUIERE REVISIÓN.
