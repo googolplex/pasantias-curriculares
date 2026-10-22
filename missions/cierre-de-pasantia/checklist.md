@@ -58,3 +58,8 @@
 
 - [x] Si se presenta F1 (optativo), verificar el campo E-mail del pasante: presente, institucional y consistente con F2, F4 y demás formularios que lo consignen.
 - [x] Si F1 no se presenta, no generar observación por su ausencia; si se presenta con correo personal, vacío, ilegible o divergente, señalar F1 y REQUIERE REVISIÓN.
+
+- [x] En el informe, toda conclusión de «consistente/coincidente» debe enumerar los formularios realmente comparados.
+- [x] Si F1 está presentado, nombrar «F1, F2, F3, F4 y F5» en consistencia de nombre y cédula, tras comprobarlos.
+- [x] Si F1 falta (es optativo), nombrar solo «F2, F3, F4 y F5»; nunca afirmar comprobaciones no realizadas.
+- [x] Especificar F2, F4 y F5 al informar coincidencia de fechas.
