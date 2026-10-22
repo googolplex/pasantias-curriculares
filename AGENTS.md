@@ -19,5 +19,5 @@
 15. Las fechas de **inicio** y **fin** deben coincidir entre **F2, F4 y F5**, con inicio ≤ fin. Si hay discrepancias, REQUIERE REVISIÓN. La tolerancia para «Respuesta de la Organización» del F2 es una regla distinta y no se extiende a estas fechas.
 
 16. El informe de la misión de cierre debe titularse explícitamente **INFORME DE AUDITORÍA DE CIERRE DE PASANTÍA**. Mantener salida breve y apta para WhatsApp.
-17. Escala de calificación del cierre: **E = Excelente; MB = Muy Bueno; B = Bueno; A = Aprobado**. No inventar calificaciones ni confundirlas con el dictamen de auditoría.
+17. Escala de calificación del cierre: **E = Excelente; MB = Muy Bueno; B = Bueno; A = Aceptable**. No inventar calificaciones ni confundirlas con el dictamen de auditoría.
 18. Revisar si el estudiante **declara en el texto de su informe final F5** que ya es empleado de la empresa receptora. Solo en ese caso exigir **certificado de trabajo**; si falta, REQUIERE REVISIÓN. Si el escrito no determina la situación laboral, pedir aclaración sin inferir empleo.
