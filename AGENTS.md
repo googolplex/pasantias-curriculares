@@ -36,3 +36,5 @@
 25. En cierre, el **F4 tiene campo E-mail del pasante** y debe auditarse obligatoriamente: correo institucional, legible y consistente con los otros formularios. No tratarlo como un campo que quizá no exista; señalar F4 expresamente si incumple.
 
 26. El **F1 (optativo para cierre)** contiene correo del pasante: **si se presenta**, el e-mail debe ser institucional, estar completo y coincidir con los demás formularios que consignen la dirección del alumno. Si falta F1 no se observa; si está presente y su correo incumple, indicar OBSERVACIÓN NOTABLE y REQUIERE REVISIÓN.
+
+27. En informes de **cierre**, no usar «consistente» o «coincidente» sin indicar **entre cuáles formularios**. Para nombre y cédula especificar F1, F2, F3, F4 y F5 cuando todos estén y se hayan verificado; si falta F1 (optativo), indicar F2–F5. Para fechas, especificar F2, F4 y F5. No declarar concordancia de documentos no comprobados.
