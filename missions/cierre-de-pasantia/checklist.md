@@ -44,3 +44,6 @@
 - [x] Cuando se constate correo personal del alumno, emitir **OBSERVACIÓN NOTABLE** en el informe de auditoría de cierre.
 - [x] Distinguir dirección declarada en formularios de correo efectivamente usado para enviar trámites; no atribuir envíos sin evidencia.
 - [x] No publicar la dirección personal completa en WhatsApp ni bloquear automáticamente el cierre por este aviso aislado.
+
+- [x] Excepciones de nomenclatura aprobadas: `_firmado_EM` en F1 y `_ra` en F2/F5; no generar observaciones por esos sufijos.
+- [x] La regla estricta anterior «sin sufijos adicionales» queda reemplazada por estas excepciones explícitas en cierre.
