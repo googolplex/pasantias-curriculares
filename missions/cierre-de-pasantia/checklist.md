@@ -39,3 +39,8 @@
 - [x] Recordar al alumno que, **después de remitir su presentación por email a Mesa de Entrada**, debe enviar el **ticket de cierre al mismo tutor de pasantía**.
 - [x] El ticket posterior no se considera faltante bloqueante durante la auditoría previa a Mesa de Entrada.
 - [x] Nombre del ticket de cierre: `nombre_del_alumno_ticket_cierre.pdf`.
+
+- [x] Verificar que el alumno utilice su correo institucional, no uno personal, en los trámites de pasantía.
+- [x] Cuando se constate correo personal del alumno, emitir **OBSERVACIÓN NOTABLE** en el informe de auditoría de cierre.
+- [x] Distinguir dirección declarada en formularios de correo efectivamente usado para enviar trámites; no atribuir envíos sin evidencia.
+- [x] No publicar la dirección personal completa en WhatsApp ni bloquear automáticamente el cierre por este aviso aislado.
