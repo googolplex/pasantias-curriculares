@@ -17,3 +17,7 @@
 
 14. En **cierre de pasantía**, F4 debe contener evaluación de la empresa y firma verificable de su representante. Se prefiere que firme la misma persona que figura como contacto/responsable de la empresa en F1, pero otra persona no causa por sí sola rechazo; aclarar identidad/capacidad cuando sea necesario.
 15. Las fechas de **inicio** y **fin** deben coincidir entre **F2, F4 y F5**, con inicio ≤ fin. Si hay discrepancias, REQUIERE REVISIÓN. La tolerancia para «Respuesta de la Organización» del F2 es una regla distinta y no se extiende a estas fechas.
+
+16. El informe de la misión de cierre debe titularse explícitamente **INFORME DE AUDITORÍA DE CIERRE DE PASANTÍA**. Mantener salida breve y apta para WhatsApp.
+17. Escala de calificación del cierre: **E = Excelente; MB = Muy Bueno; B = Bueno; A = Aprobado**. No inventar calificaciones ni confundirlas con el dictamen de auditoría.
+18. Revisar si el estudiante **declara en el texto de su informe final F5** que ya es empleado de la empresa receptora. Solo en ese caso exigir **certificado de trabajo**; si falta, REQUIERE REVISIÓN. Si el escrito no determina la situación laboral, pedir aclaración sin inferir empleo.
