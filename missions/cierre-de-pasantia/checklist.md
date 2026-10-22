@@ -20,7 +20,7 @@
 - [x] La tolerancia de «Respuesta de la Organización» F2 no modifica la coincidencia estricta de fechas inicio/fin.
 
 - [x] Título obligatorio del mensaje: INFORME DE AUDITORÍA DE CIERRE DE PASANTÍA.
-- [x] Escala de calificación definida: E = Excelente; MB = Muy Bueno; B = Bueno; A = Aprobado.
+- [x] Escala de calificación definida: E = Excelente; MB = Muy Bueno; B = Bueno; A = Aceptable.
 - [x] Separar calificación académica y estado administrativo de la auditoría.
 - [x] Revisar declaración de empleo en el escrito del informe final F5.
 - [x] Si declara ser empleado de la empresa receptora, exigir certificado de trabajo y registrar su existencia.
