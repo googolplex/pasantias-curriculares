@@ -63,3 +63,7 @@
 - [x] Si F1 está presentado, nombrar «F1, F2, F3, F4 y F5» en consistencia de nombre y cédula, tras comprobarlos.
 - [x] Si F1 falta (es optativo), nombrar solo «F2, F3, F4 y F5»; nunca afirmar comprobaciones no realizadas.
 - [x] Especificar F2, F4 y F5 al informar coincidencia de fechas.
+
+- [x] `_ra` es sufijo opcional válido para F1, F2, F3, F4 y F5; su presencia o ausencia no es error.
+- [x] Mantener `_firmado_EM` autorizado en F1 y no inventar nombres de archivos.
+- [x] La nueva regla prevalece sobre los controles previos que limitaban `_ra` a F2/F5.
