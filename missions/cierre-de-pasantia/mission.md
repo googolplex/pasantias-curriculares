@@ -71,3 +71,10 @@ No publicar expedientes, C.I., contactos ni PDF de estudiantes en GitHub.
 - Si se detecta una dirección personal usada por el alumno, incluir expresamente una **OBSERVACIÓN NOTABLE** en el informe de auditoría de cierre y solicitar que emplee su correo institucional en las gestiones posteriores. No divulgar la dirección personal completa en el mensaje destinado a WhatsApp.
 - Si no hay evidencia suficiente para identificar si el correo es personal o institucional, no inventar una conclusión: indicar **NO VERIFICABLE** si corresponde. No inferir que el trámite fue remitido desde una cuenta concreta por el solo hecho de que la dirección aparezca en un formulario.
 - La observación sobre correo personal es un **aviso destacado**; no convertirla por sí sola en rechazo automático ni alterar los demás controles aprobados sin una instrucción expresa del tutor.
+
+## Corrección aprobada — sufijos de archivos permitidos (2026-10-22)
+- El tutor confirmó que estos sufijos **son correctos y se aceptan en el cierre**: `_firmado_EM` para F1 y `_ra` para F2 y F5.
+- Ejemplos explícitamente conformes: `nombre_completo_f1_firmado_EM.pdf`, `nombre_completo_f2_ra.pdf`, `nombre_completo_f5_ra.pdf`.
+- **No marcar estos tres nombres como nomenclatura incorrecta ni pedir renombrarlos**, siempre que correspondan al alumno y formulario correctos.
+- Esta decisión **rectifica** las instrucciones anteriores que prohibían incondicionalmente cualquier sufijo adicional, al menos para los casos aprobados aquí. No extrapolar la aceptación a otros sufijos sin autorización.
+- F1 sigue siendo optativo para la etapa de cierre.
