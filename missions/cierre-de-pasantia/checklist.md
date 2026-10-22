@@ -55,3 +55,6 @@
 
 - [x] **F4 contiene E-mail del pasante**: comprobar obligatoriamente su presencia, carácter institucional y concordancia con las demás direcciones del alumno.
 - [x] Correo de F4 vacío, personal, divergente o no verificable: observación específica y REQUIERE REVISIÓN.
+
+- [x] Si se presenta F1 (optativo), verificar el campo E-mail del pasante: presente, institucional y consistente con F2, F4 y demás formularios que lo consignen.
+- [x] Si F1 no se presenta, no generar observación por su ausencia; si se presenta con correo personal, vacío, ilegible o divergente, señalar F1 y REQUIERE REVISIÓN.
