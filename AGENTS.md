@@ -38,3 +38,5 @@
 26. El **F1 (optativo para cierre)** contiene correo del pasante: **si se presenta**, el e-mail debe ser institucional, estar completo y coincidir con los demás formularios que consignen la dirección del alumno. Si falta F1 no se observa; si está presente y su correo incumple, indicar OBSERVACIÓN NOTABLE y REQUIERE REVISIÓN.
 
 27. En informes de **cierre**, no usar «consistente» o «coincidente» sin indicar **entre cuáles formularios**. Para nombre y cédula especificar F1, F2, F3, F4 y F5 cuando todos estén y se hayan verificado; si falta F1 (optativo), indicar F2–F5. Para fechas, especificar F2, F4 y F5. No declarar concordancia de documentos no comprobados.
+
+28. Regla definitiva de cierre: el sufijo `_ra` **es opcional en cualquiera de F1–F5**; nunca observar por su presencia o ausencia. En F1 también se admite `_firmado_EM`. Esta regla reemplaza la limitación anterior de `_ra` a F2/F5. Comparar siempre con los nombres reales recibidos.
