@@ -11,3 +11,6 @@
 9. En F2, la «Respuesta de la Organización» puede tener fecha ligeramente anterior o posterior a la finalización; caso de diferencia de cinco días admitido. No inventar un umbral general de tolerancia.
 10. Cada solicitud «actualiza la misión» implica editar la documentación pertinente, realizar commit en GitHub y comprobar el resultado antes de declarar éxito.
 11. No subir datos personales de alumnos ni PDF reales a repositorios públicos.
+
+12. En la misión de **cierre de pasantía**, F2 y F5 deben tener firma verificable del profesor tutor (caso actual: Roger Armoa); si falta o no es verificable, solicitar revisión. Esta regla específica no deroga las exclusiones de `controlF1`.
+13. El informe final narrativo del pasante (F5) debe ser preferentemente de **una página**; si sobrepasa una página, emitir solo un **aviso**, sin bloquear la aprobación por ese motivo. No confundir el total de páginas de un PDF con el número de páginas del informe narrativo.
