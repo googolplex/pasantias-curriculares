@@ -30,3 +30,12 @@
 - [x] Comprobar consistencia de nombres y apellidos completos entre F1, F2, F3, F4 y F5.
 - [x] Comparar cédulas sin puntos/espacios, pero exigir los mismos dígitos; admitir solo diferencias ortográficas superficiales en nombres.
 - [x] Reportar discrepancias por formulario sin publicar innecesariamente la cédula completa en WhatsApp.
+
+
+## Ajuste de alcance aprobado — cierre
+- [x] F1 es **optativo** para el cierre; normalmente corresponde a la apertura. No observar ausencia de F1.
+- [x] F2, F3, F4 y F5 son los formularios que se exigen al cierre; controlar existencia, nomenclatura e identidad entre ellos.
+- [x] Si se presenta F1, revisarlo adicionalmente; si no, no exigirlo para la conciliación de identidad.
+- [x] Recordar al alumno que, **después de remitir su presentación por email a Mesa de Entrada**, debe enviar el **ticket de cierre al mismo tutor de pasantía**.
+- [x] El ticket posterior no se considera faltante bloqueante durante la auditoría previa a Mesa de Entrada.
+- [x] Nombre del ticket de cierre: `nombre_del_alumno_ticket_cierre.pdf`.
